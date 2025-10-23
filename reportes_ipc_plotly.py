@@ -5,8 +5,8 @@ import os
 
 st.set_page_config(page_title="Reportes IPC – Plotly", layout="wide")
 
-OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "../../outputs")
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+# OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "../../outputs")
+# os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 @st.cache_data
 def cargar_datos():
@@ -259,3 +259,4 @@ elif grafico == "Acumulado entre fechas":
         )
 
         st.plotly_chart(fig, use_container_width=True, key="acumulado")
+
