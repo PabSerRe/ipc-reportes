@@ -86,7 +86,7 @@ categoria = st.sidebar.selectbox("Categoría", categorias, index=idx_categoria)
 
 grafico = st.sidebar.radio(
     "Tipo de gráfico",
-    ["Serie temporal", "Comparación regional", "Heatmap", "Acumulado entre fechas"]
+    ["Serie temporal", "Acumulado entre fechas"]
 )
 
 st.header(f"{grafico} – {categoria} / {region} / {columna} ({origen})")
@@ -259,5 +259,6 @@ elif grafico == "Acumulado entre fechas":
         )
 
         st.plotly_chart(fig, use_container_width=True, key="acumulado")
+
 
 
