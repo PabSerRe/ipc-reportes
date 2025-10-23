@@ -48,7 +48,9 @@ df = cargar_datos()
 
 st.sidebar.header("Filtros")
 
-origen = st.sidebar.selectbox("Origen", sorted(df["origen"].dropna().unique()))
+origenes = sorted([o for o in df["origen"].dropna().unique() if o != "precios_promedio"])
+origen = st.sidebar.selectbox("Origen", origenes if origenes else ["variaciones"])
+
 base_origen = df[df["origen"] == origen].copy()
 
 
@@ -260,6 +262,7 @@ elif grafico == "Acumulado entre fechas":
         )
 
         st.plotly_chart(fig, use_container_width=True, key="acumulado")
+
 
 
 
