@@ -48,8 +48,18 @@ df = cargar_datos()
 
 st.sidebar.header("Filtros")
 
-origen = st.sidebar.selectbox("Origen", sorted(df["origen"].dropna().unique()))
-base_origen = df[df["origen"] == origen].copy()
+# Mostrar solo orígenes con datos
+origenes_con_datos = []
+for o in sorted(df["origen"].dropna().unique()):
+    subset = df[df["origen"] == o]
+    if not subset.empty and subset["valor"].notna().any():
+        origenes_con_datos.append(o)
+
+# Fallback: si todos están vacíos, mostrar todos
+if not origenes_con_datos:
+    origenes_con_datos = sorted(df["origen"].dropna().unique())
+
+origen = st.sidebar.selectbox("Origen", origenes_con_datos)
 
 INDICADORES = {
     "variaciones": ["variacion_mensual", "variacion_interanual", "indice"],
@@ -259,6 +269,7 @@ elif grafico == "Acumulado entre fechas":
         )
 
         st.plotly_chart(fig, use_container_width=True, key="acumulado")
+
 
 
 
