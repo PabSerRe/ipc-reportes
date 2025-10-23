@@ -10,7 +10,7 @@ st.set_page_config(page_title="Reportes IPC – Plotly", layout="wide")
 
 @st.cache_data
 def cargar_datos():
-    df = pd.read_csv("../../data/ipc_maestro_sin_ponderaciones.csv")
+    df = pd.read_csv("ipc_maestro_sin_ponderaciones.csv")
     df["fecha"] = pd.to_datetime(df["fecha"].astype(str).str[:7], errors="coerce")
 
     # --- Calcular Región Nacional ---
@@ -259,4 +259,5 @@ elif grafico == "Acumulado entre fechas":
         )
 
         st.plotly_chart(fig, use_container_width=True, key="acumulado")
+
 
