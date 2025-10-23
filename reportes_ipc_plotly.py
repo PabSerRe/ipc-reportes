@@ -55,7 +55,6 @@ base_origen = df[df["origen"] == origen].copy()
 
 INDICADORES = {
     "variaciones": ["variacion_mensual", "variacion_interanual", "indice"],
-    "precios": ["precio_promedio"],
     "aperturas": ["indice"],
 }
 indicadores_disponibles = INDICADORES.get(origen, [])
@@ -261,6 +260,7 @@ elif grafico == "Acumulado entre fechas":
         )
 
         st.plotly_chart(fig, use_container_width=True, key="acumulado")
+
 
 
 
