@@ -1,0 +1,367 @@
+cuadro,categoria,region,valor
+Divisiones,Alimentos y bebidas no alcohólicas,GBA,23.400000000000002
+Divisiones,Alimentos y bebidas no alcohólicas,Pampeana,28.599999999999998
+Divisiones,Alimentos y bebidas no alcohólicas,NEA,35.3
+Divisiones,Alimentos y bebidas no alcohólicas,NOA,34.699999999999996
+Divisiones,Alimentos y bebidas no alcohólicas,Cuyo,28.4
+Divisiones,Alimentos y bebidas no alcohólicas,Patagonia,27.400000000000002
+Divisiones,Bebidas alcohólicas y tabaco,GBA,3.3000000000000003
+Divisiones,Bebidas alcohólicas y tabaco,Pampeana,3.8
+Divisiones,Bebidas alcohólicas y tabaco,NEA,3.5999999999999996
+Divisiones,Bebidas alcohólicas y tabaco,NOA,3.1
+Divisiones,Bebidas alcohólicas y tabaco,Cuyo,3.5999999999999996
+Divisiones,Bebidas alcohólicas y tabaco,Patagonia,3.5000000000000004
+Divisiones,Prendas de vestir y calzado,GBA,8.5
+Divisiones,Prendas de vestir y calzado,Pampeana,10.4
+Divisiones,Prendas de vestir y calzado,NEA,11.600000000000001
+Divisiones,Prendas de vestir y calzado,NOA,12.4
+Divisiones,Prendas de vestir y calzado,Cuyo,11.4
+Divisiones,Prendas de vestir y calzado,Patagonia,12.8
+Divisiones,"Vivienda, agua, electricidad, gas y otros combustibles",GBA,10.5
+Divisiones,"Vivienda, agua, electricidad, gas y otros combustibles",Pampeana,8.7
+Divisiones,"Vivienda, agua, electricidad, gas y otros combustibles",NEA,8.1
+Divisiones,"Vivienda, agua, electricidad, gas y otros combustibles",NOA,7.000000000000001
+Divisiones,"Vivienda, agua, electricidad, gas y otros combustibles",Cuyo,8.9
+Divisiones,"Vivienda, agua, electricidad, gas y otros combustibles",Patagonia,10.100000000000001
+Divisiones,Equipamiento y mantenimiento del hogar,GBA,6.3
+Divisiones,Equipamiento y mantenimiento del hogar,Pampeana,6.3
+Divisiones,Equipamiento y mantenimiento del hogar,NEA,7.8
+Divisiones,Equipamiento y mantenimiento del hogar,NOA,6.1
+Divisiones,Equipamiento y mantenimiento del hogar,Cuyo,6.3
+Divisiones,Equipamiento y mantenimiento del hogar,Patagonia,6.5
+Divisiones,Salud,GBA,8.799999999999999
+Divisiones,Salud,Pampeana,8.200000000000001
+Divisiones,Salud,NEA,5.3
+Divisiones,Salud,NOA,6.3
+Divisiones,Salud,Cuyo,7.3999999999999995
+Divisiones,Salud,Patagonia,5.0
+Divisiones,Transporte,GBA,11.600000000000001
+Divisiones,Transporte,Pampeana,10.4
+Divisiones,Transporte,NEA,9.6
+Divisiones,Transporte,NOA,8.4
+Divisiones,Transporte,Cuyo,12.1
+Divisiones,Transporte,Patagonia,13.4
+Divisiones,Comunicaciones,GBA,2.8000000000000003
+Divisiones,Comunicaciones,Pampeana,2.9000000000000004
+Divisiones,Comunicaciones,NEA,2.8000000000000003
+Divisiones,Comunicaciones,NOA,2.6
+Divisiones,Comunicaciones,Cuyo,2.5
+Divisiones,Comunicaciones,Patagonia,3.2
+Divisiones,Recreación y cultura,GBA,7.5
+Divisiones,Recreación y cultura,Pampeana,7.3999999999999995
+Divisiones,Recreación y cultura,NEA,6.2
+Divisiones,Recreación y cultura,NOA,5.8999999999999995
+Divisiones,Recreación y cultura,Cuyo,6.7
+Divisiones,Recreación y cultura,Patagonia,7.8
+Divisiones,Educación,GBA,3.0
+Divisiones,Educación,Pampeana,1.6
+Divisiones,Educación,NEA,1.4000000000000001
+Divisiones,Educación,NOA,2.0
+Divisiones,Educación,Cuyo,2.1999999999999997
+Divisiones,Educación,Patagonia,2.1
+Divisiones,Restaurantes y hoteles,GBA,10.8
+Divisiones,Restaurantes y hoteles,Pampeana,8.1
+Divisiones,Restaurantes y hoteles,NEA,5.0
+Divisiones,Restaurantes y hoteles,NOA,8.0
+Divisiones,Restaurantes y hoteles,Cuyo,6.800000000000001
+Divisiones,Restaurantes y hoteles,Patagonia,5.1
+Divisiones,Bienes y servicios varios,GBA,3.5999999999999996
+Divisiones,Bienes y servicios varios,Pampeana,3.5999999999999996
+Divisiones,Bienes y servicios varios,NEA,3.3000000000000003
+Divisiones,Bienes y servicios varios,NOA,3.4000000000000004
+Divisiones,Bienes y servicios varios,Cuyo,3.5999999999999996
+Divisiones,Bienes y servicios varios,Patagonia,3.1
+Divisiones,Importancia relativa de la región en el total nacional,GBA,44.67
+Divisiones,Importancia relativa de la región en el total nacional,Pampeana,34.19
+Divisiones,Importancia relativa de la región en el total nacional,NEA,4.51
+Divisiones,Importancia relativa de la región en el total nacional,NOA,6.88
+Divisiones,Importancia relativa de la región en el total nacional,Cuyo,5.18
+Divisiones,Importancia relativa de la región en el total nacional,Patagonia,4.569999999999999
+Principales aperturas,Nivel general,GBA,100.0
+Principales aperturas,Nivel general,Pampeana,100.0
+Principales aperturas,Nivel general,Noreste,100.0
+Principales aperturas,Nivel general,Noroeste,100.0
+Principales aperturas,Nivel general,Cuyo,100.0
+Principales aperturas,Nivel general,Patagonia,100.0
+Principales aperturas,Alimentos y bebidas no alcohólicas,GBA,23.400000000000002
+Principales aperturas,Alimentos y bebidas no alcohólicas,Pampeana,28.599999999999998
+Principales aperturas,Alimentos y bebidas no alcohólicas,Noreste,35.3
+Principales aperturas,Alimentos y bebidas no alcohólicas,Noroeste,34.699999999999996
+Principales aperturas,Alimentos y bebidas no alcohólicas,Cuyo,28.4
+Principales aperturas,Alimentos y bebidas no alcohólicas,Patagonia,27.400000000000002
+Principales aperturas,Alimentos,GBA,20.3
+Principales aperturas,Alimentos,Pampeana,25.7
+Principales aperturas,Alimentos,Noreste,31.7
+Principales aperturas,Alimentos,Noroeste,30.3
+Principales aperturas,Alimentos,Cuyo,25.5
+Principales aperturas,Alimentos,Patagonia,24.8
+Principales aperturas,Pan y cereales,GBA,4.1000000000000005
+Principales aperturas,Pan y cereales,Pampeana,5.0
+Principales aperturas,Pan y cereales,Noreste,6.6000000000000005
+Principales aperturas,Pan y cereales,Noroeste,6.5
+Principales aperturas,Pan y cereales,Cuyo,5.2
+Principales aperturas,Pan y cereales,Patagonia,4.6
+Principales aperturas,Carnes y derivados,GBA,7.000000000000001
+Principales aperturas,Carnes y derivados,Pampeana,9.8
+Principales aperturas,Carnes y derivados,Noreste,13.3
+Principales aperturas,Carnes y derivados,Noroeste,12.5
+Principales aperturas,Carnes y derivados,Cuyo,10.299999999999999
+Principales aperturas,Carnes y derivados,Patagonia,9.9
+Principales aperturas,"Leche, productos lácteos y huevos",GBA,3.5000000000000004
+Principales aperturas,"Leche, productos lácteos y huevos",Pampeana,3.6999999999999997
+Principales aperturas,"Leche, productos lácteos y huevos",Noreste,4.1000000000000005
+Principales aperturas,"Leche, productos lácteos y huevos",Noroeste,3.6999999999999997
+Principales aperturas,"Leche, productos lácteos y huevos",Cuyo,3.5999999999999996
+Principales aperturas,"Leche, productos lácteos y huevos",Patagonia,3.6999999999999997
+Principales aperturas,"Aceites, grasas y manteca",GBA,0.5
+Principales aperturas,"Aceites, grasas y manteca",Pampeana,0.8
+Principales aperturas,"Aceites, grasas y manteca",Noreste,0.8999999999999999
+Principales aperturas,"Aceites, grasas y manteca",Noroeste,0.6
+Principales aperturas,"Aceites, grasas y manteca",Cuyo,0.7000000000000001
+Principales aperturas,"Aceites, grasas y manteca",Patagonia,0.6
+Principales aperturas,Frutas,GBA,1.3
+Principales aperturas,Frutas,Pampeana,1.5
+Principales aperturas,Frutas,Noreste,1.5
+Principales aperturas,Frutas,Noroeste,1.5
+Principales aperturas,Frutas,Cuyo,1.0999999999999999
+Principales aperturas,Frutas,Patagonia,1.3
+Principales aperturas,"Verduras, tubérculos y legumbres",GBA,2.1999999999999997
+Principales aperturas,"Verduras, tubérculos y legumbres",Pampeana,2.9000000000000004
+Principales aperturas,"Verduras, tubérculos y legumbres",Noreste,3.5999999999999996
+Principales aperturas,"Verduras, tubérculos y legumbres",Noroeste,3.5999999999999996
+Principales aperturas,"Verduras, tubérculos y legumbres",Cuyo,2.8000000000000003
+Principales aperturas,"Verduras, tubérculos y legumbres",Patagonia,2.7
+Principales aperturas,"Azúcar, dulces, chocolate, golosinas, etc.",GBA,1.0
+Principales aperturas,"Azúcar, dulces, chocolate, golosinas, etc.",Pampeana,1.2
+Principales aperturas,"Azúcar, dulces, chocolate, golosinas, etc.",Noreste,1.0999999999999999
+Principales aperturas,"Azúcar, dulces, chocolate, golosinas, etc.",Noroeste,1.2
+Principales aperturas,"Azúcar, dulces, chocolate, golosinas, etc.",Cuyo,1.0
+Principales aperturas,"Azúcar, dulces, chocolate, golosinas, etc.",Patagonia,1.0
+Principales aperturas,Bebidas no alcohólicas,GBA,3.1
+Principales aperturas,Bebidas no alcohólicas,Pampeana,2.9000000000000004
+Principales aperturas,Bebidas no alcohólicas,Noreste,3.5999999999999996
+Principales aperturas,Bebidas no alcohólicas,Noroeste,4.3999999999999995
+Principales aperturas,Bebidas no alcohólicas,Cuyo,2.9000000000000004
+Principales aperturas,Bebidas no alcohólicas,Patagonia,2.7
+Principales aperturas,"Café, té, yerba y cacao",GBA,0.7000000000000001
+Principales aperturas,"Café, té, yerba y cacao",Pampeana,0.8
+Principales aperturas,"Café, té, yerba y cacao",Noreste,0.8999999999999999
+Principales aperturas,"Café, té, yerba y cacao",Noroeste,0.6
+Principales aperturas,"Café, té, yerba y cacao",Cuyo,0.7000000000000001
+Principales aperturas,"Café, té, yerba y cacao",Patagonia,0.7000000000000001
+Principales aperturas,"Aguas minerales, bebidas gaseosas y jugos",GBA,2.4
+Principales aperturas,"Aguas minerales, bebidas gaseosas y jugos",Pampeana,2.1
+Principales aperturas,"Aguas minerales, bebidas gaseosas y jugos",Noreste,2.7
+Principales aperturas,"Aguas minerales, bebidas gaseosas y jugos",Noroeste,3.6999999999999997
+Principales aperturas,"Aguas minerales, bebidas gaseosas y jugos",Cuyo,2.3
+Principales aperturas,"Aguas minerales, bebidas gaseosas y jugos",Patagonia,2.0
+Principales aperturas,Bebidas alcohólicas y tabaco,GBA,3.3000000000000003
+Principales aperturas,Bebidas alcohólicas y tabaco,Pampeana,3.8
+Principales aperturas,Bebidas alcohólicas y tabaco,Noreste,3.5999999999999996
+Principales aperturas,Bebidas alcohólicas y tabaco,Noroeste,3.1
+Principales aperturas,Bebidas alcohólicas y tabaco,Cuyo,3.5999999999999996
+Principales aperturas,Bebidas alcohólicas y tabaco,Patagonia,3.5000000000000004
+Principales aperturas,Bebidas alcohólicas,GBA,1.4000000000000001
+Principales aperturas,Bebidas alcohólicas,Pampeana,1.7999999999999998
+Principales aperturas,Bebidas alcohólicas,Noreste,2.0
+Principales aperturas,Bebidas alcohólicas,Noroeste,1.4000000000000001
+Principales aperturas,Bebidas alcohólicas,Cuyo,1.4000000000000001
+Principales aperturas,Bebidas alcohólicas,Patagonia,1.4000000000000001
+Principales aperturas,Tabaco,GBA,1.9
+Principales aperturas,Tabaco,Pampeana,2.0
+Principales aperturas,Tabaco,Noreste,1.6
+Principales aperturas,Tabaco,Noroeste,1.7999999999999998
+Principales aperturas,Tabaco,Cuyo,2.1
+Principales aperturas,Tabaco,Patagonia,2.1
+Principales aperturas,Prendas de vestir y calzado,GBA,8.5
+Principales aperturas,Prendas de vestir y calzado,Pampeana,10.4
+Principales aperturas,Prendas de vestir y calzado,Noreste,11.600000000000001
+Principales aperturas,Prendas de vestir y calzado,Noroeste,12.4
+Principales aperturas,Prendas de vestir y calzado,Cuyo,11.4
+Principales aperturas,Prendas de vestir y calzado,Patagonia,12.8
+Principales aperturas,Prendas de vestir y materiales,GBA,6.3
+Principales aperturas,Prendas de vestir y materiales,Pampeana,7.7
+Principales aperturas,Prendas de vestir y materiales,Noreste,8.0
+Principales aperturas,Prendas de vestir y materiales,Noroeste,8.4
+Principales aperturas,Prendas de vestir y materiales,Cuyo,8.3
+Principales aperturas,Prendas de vestir y materiales,Patagonia,9.0
+Principales aperturas,Calzado,GBA,2.1999999999999997
+Principales aperturas,Calzado,Pampeana,2.8000000000000003
+Principales aperturas,Calzado,Noreste,3.5999999999999996
+Principales aperturas,Calzado,Noroeste,4.0
+Principales aperturas,Calzado,Cuyo,3.1
+Principales aperturas,Calzado,Patagonia,3.9
+Principales aperturas,"Vivienda, agua, electricidad, gas y otros combustibles",GBA,10.5
+Principales aperturas,"Vivienda, agua, electricidad, gas y otros combustibles",Pampeana,8.7
+Principales aperturas,"Vivienda, agua, electricidad, gas y otros combustibles",Noreste,8.1
+Principales aperturas,"Vivienda, agua, electricidad, gas y otros combustibles",Noroeste,7.000000000000001
+Principales aperturas,"Vivienda, agua, electricidad, gas y otros combustibles",Cuyo,8.9
+Principales aperturas,"Vivienda, agua, electricidad, gas y otros combustibles",Patagonia,10.100000000000001
+Principales aperturas,Alquiler de la vivienda y gastos conexos,GBA,5.800000000000001
+Principales aperturas,Alquiler de la vivienda y gastos conexos,Pampeana,3.9
+Principales aperturas,Alquiler de la vivienda y gastos conexos,Noreste,2.4
+Principales aperturas,Alquiler de la vivienda y gastos conexos,Noroeste,2.0
+Principales aperturas,Alquiler de la vivienda y gastos conexos,Cuyo,3.8
+Principales aperturas,Alquiler de la vivienda y gastos conexos,Patagonia,5.1
+Principales aperturas,Alquiler de la vivienda,GBA,3.5000000000000004
+Principales aperturas,Alquiler de la vivienda,Pampeana,3.5999999999999996
+Principales aperturas,Alquiler de la vivienda,Noreste,2.1999999999999997
+Principales aperturas,Alquiler de la vivienda,Noroeste,1.9
+Principales aperturas,Alquiler de la vivienda,Cuyo,3.6999999999999997
+Principales aperturas,Alquiler de la vivienda,Patagonia,5.0
+Principales aperturas,"Electricidad, gas y otros combustibles",GBA,2.5
+Principales aperturas,"Electricidad, gas y otros combustibles",Pampeana,3.0
+Principales aperturas,"Electricidad, gas y otros combustibles",Noreste,3.6999999999999997
+Principales aperturas,"Electricidad, gas y otros combustibles",Noroeste,3.5999999999999996
+Principales aperturas,"Electricidad, gas y otros combustibles",Cuyo,3.3000000000000003
+Principales aperturas,"Electricidad, gas y otros combustibles",Patagonia,2.9000000000000004
+Principales aperturas,Equipamiento y mantenimiento del hogar,GBA,6.3
+Principales aperturas,Equipamiento y mantenimiento del hogar,Pampeana,6.3
+Principales aperturas,Equipamiento y mantenimiento del hogar,Noreste,7.8
+Principales aperturas,Equipamiento y mantenimiento del hogar,Noroeste,6.1
+Principales aperturas,Equipamiento y mantenimiento del hogar,Cuyo,6.3
+Principales aperturas,Equipamiento y mantenimiento del hogar,Patagonia,6.5
+Principales aperturas,Bienes y servicios para la conservación del hogar,GBA,3.6999999999999997
+Principales aperturas,Bienes y servicios para la conservación del hogar,Pampeana,3.8
+Principales aperturas,Bienes y servicios para la conservación del hogar,Noreste,3.5999999999999996
+Principales aperturas,Bienes y servicios para la conservación del hogar,Noroeste,3.6999999999999997
+Principales aperturas,Bienes y servicios para la conservación del hogar,Cuyo,3.6999999999999997
+Principales aperturas,Bienes y servicios para la conservación del hogar,Patagonia,3.0
+Principales aperturas,Salud,GBA,8.799999999999999
+Principales aperturas,Salud,Pampeana,8.200000000000001
+Principales aperturas,Salud,Noreste,5.3
+Principales aperturas,Salud,Noroeste,6.3
+Principales aperturas,Salud,Cuyo,7.3999999999999995
+Principales aperturas,Salud,Patagonia,5.0
+Principales aperturas,"Productos medicinales, artefactos y equipos para la salud",GBA,3.9
+Principales aperturas,"Productos medicinales, artefactos y equipos para la salud",Pampeana,4.8
+Principales aperturas,"Productos medicinales, artefactos y equipos para la salud",Noreste,3.4000000000000004
+Principales aperturas,"Productos medicinales, artefactos y equipos para la salud",Noroeste,4.0
+Principales aperturas,"Productos medicinales, artefactos y equipos para la salud",Cuyo,5.0
+Principales aperturas,"Productos medicinales, artefactos y equipos para la salud",Patagonia,2.6
+Principales aperturas,Gastos de prepagas,GBA,3.2
+Principales aperturas,Gastos de prepagas,Pampeana,1.7999999999999998
+Principales aperturas,Gastos de prepagas,Noreste,0.7000000000000001
+Principales aperturas,Gastos de prepagas,Noroeste,0.7000000000000001
+Principales aperturas,Gastos de prepagas,Cuyo,1.0
+Principales aperturas,Gastos de prepagas,Patagonia,0.8
+Principales aperturas,Transporte,GBA,11.600000000000001
+Principales aperturas,Transporte,Pampeana,10.4
+Principales aperturas,Transporte,Noreste,9.6
+Principales aperturas,Transporte,Noroeste,8.4
+Principales aperturas,Transporte,Cuyo,12.1
+Principales aperturas,Transporte,Patagonia,13.4
+Principales aperturas,Adquisición de vehículos,GBA,2.5
+Principales aperturas,Adquisición de vehículos,Pampeana,2.9000000000000004
+Principales aperturas,Adquisición de vehículos,Noreste,2.8000000000000003
+Principales aperturas,Adquisición de vehículos,Noroeste,1.6
+Principales aperturas,Adquisición de vehículos,Cuyo,3.0
+Principales aperturas,Adquisición de vehículos,Patagonia,4.9
+Principales aperturas,Funcionamiento de equipos de transporte personal,GBA,5.1
+Principales aperturas,Funcionamiento de equipos de transporte personal,Pampeana,5.5
+Principales aperturas,Funcionamiento de equipos de transporte personal,Noreste,4.9
+Principales aperturas,Funcionamiento de equipos de transporte personal,Noroeste,4.5
+Principales aperturas,Funcionamiento de equipos de transporte personal,Cuyo,6.9
+Principales aperturas,Funcionamiento de equipos de transporte personal,Patagonia,6.1
+Principales aperturas,Combustibles y lubricantes para vehículos de uso del hogar,GBA,3.8
+Principales aperturas,Combustibles y lubricantes para vehículos de uso del hogar,Pampeana,4.6
+Principales aperturas,Combustibles y lubricantes para vehículos de uso del hogar,Noreste,4.3
+Principales aperturas,Combustibles y lubricantes para vehículos de uso del hogar,Noroeste,3.8
+Principales aperturas,Combustibles y lubricantes para vehículos de uso del hogar,Cuyo,5.6000000000000005
+Principales aperturas,Combustibles y lubricantes para vehículos de uso del hogar,Patagonia,5.1
+Principales aperturas,Transporte público,GBA,4.0
+Principales aperturas,Transporte público,Pampeana,2.0
+Principales aperturas,Transporte público,Noreste,2.0
+Principales aperturas,Transporte público,Noroeste,2.3
+Principales aperturas,Transporte público,Cuyo,2.3
+Principales aperturas,Transporte público,Patagonia,2.4
+Principales aperturas,Comunicación,GBA,2.8000000000000003
+Principales aperturas,Comunicación,Pampeana,2.9000000000000004
+Principales aperturas,Comunicación,Noreste,2.8000000000000003
+Principales aperturas,Comunicación,Noroeste,2.6
+Principales aperturas,Comunicación,Cuyo,2.5
+Principales aperturas,Comunicación,Patagonia,3.2
+Principales aperturas,Servicios de telefonía e internet,GBA,2.7
+Principales aperturas,Servicios de telefonía e internet,Pampeana,2.8000000000000003
+Principales aperturas,Servicios de telefonía e internet,Noreste,2.7
+Principales aperturas,Servicios de telefonía e internet,Noroeste,2.5
+Principales aperturas,Servicios de telefonía e internet,Cuyo,2.4
+Principales aperturas,Servicios de telefonía e internet,Patagonia,3.1
+Principales aperturas,Recreación y cultura,GBA,7.5
+Principales aperturas,Recreación y cultura,Pampeana,7.3999999999999995
+Principales aperturas,Recreación y cultura,Noreste,6.2
+Principales aperturas,Recreación y cultura,Noroeste,5.8999999999999995
+Principales aperturas,Recreación y cultura,Cuyo,6.7
+Principales aperturas,Recreación y cultura,Patagonia,7.8
+Principales aperturas,Servicios recreativos y culturales,GBA,3.0
+Principales aperturas,Servicios recreativos y culturales,Pampeana,2.9000000000000004
+Principales aperturas,Servicios recreativos y culturales,Noreste,2.3
+Principales aperturas,Servicios recreativos y culturales,Noroeste,2.3
+Principales aperturas,Servicios recreativos y culturales,Cuyo,2.7
+Principales aperturas,Servicios recreativos y culturales,Patagonia,3.0
+Principales aperturas,"Periódicos, diarios, revistas, libros y artículos de papelería",GBA,1.5
+Principales aperturas,"Periódicos, diarios, revistas, libros y artículos de papelería",Pampeana,1.6
+Principales aperturas,"Periódicos, diarios, revistas, libros y artículos de papelería",Noreste,1.7999999999999998
+Principales aperturas,"Periódicos, diarios, revistas, libros y artículos de papelería",Noroeste,1.6
+Principales aperturas,"Periódicos, diarios, revistas, libros y artículos de papelería",Cuyo,1.5
+Principales aperturas,"Periódicos, diarios, revistas, libros y artículos de papelería",Patagonia,1.7999999999999998
+Principales aperturas,Educación,GBA,3.0
+Principales aperturas,Educación,Pampeana,1.6
+Principales aperturas,Educación,Noreste,1.4000000000000001
+Principales aperturas,Educación,Noroeste,2.0
+Principales aperturas,Educación,Cuyo,2.1999999999999997
+Principales aperturas,Educación,Patagonia,2.1
+Principales aperturas,Restaurantes y hoteles,GBA,10.8
+Principales aperturas,Restaurantes y hoteles,Pampeana,8.1
+Principales aperturas,Restaurantes y hoteles,Noreste,5.0
+Principales aperturas,Restaurantes y hoteles,Noroeste,8.0
+Principales aperturas,Restaurantes y hoteles,Cuyo,6.800000000000001
+Principales aperturas,Restaurantes y hoteles,Patagonia,5.1
+Principales aperturas,Restaurantes y comidas fuera del hogar,GBA,10.299999999999999
+Principales aperturas,Restaurantes y comidas fuera del hogar,Pampeana,7.8
+Principales aperturas,Restaurantes y comidas fuera del hogar,Noreste,4.8
+Principales aperturas,Restaurantes y comidas fuera del hogar,Noroeste,7.8
+Principales aperturas,Restaurantes y comidas fuera del hogar,Cuyo,6.5
+Principales aperturas,Restaurantes y comidas fuera del hogar,Patagonia,4.9
+Principales aperturas,Bienes y servicios varios,GBA,3.5999999999999996
+Principales aperturas,Bienes y servicios varios,Pampeana,3.5999999999999996
+Principales aperturas,Bienes y servicios varios,Noreste,3.3000000000000003
+Principales aperturas,Bienes y servicios varios,Noroeste,3.4000000000000004
+Principales aperturas,Bienes y servicios varios,Cuyo,3.5999999999999996
+Principales aperturas,Bienes y servicios varios,Patagonia,3.1
+Principales aperturas,Cuidado personal,GBA,2.8000000000000003
+Principales aperturas,Cuidado personal,Pampeana,3.1
+Principales aperturas,Cuidado personal,Noreste,3.1
+Principales aperturas,Cuidado personal,Noroeste,3.2
+Principales aperturas,Cuidado personal,Cuyo,3.1
+Principales aperturas,Cuidado personal,Patagonia,2.7
+Categorias,Estacional,GBA,10.299999999999999
+Categorias,Estacional,Pampeana,12.0
+Categorias,Estacional,Noreste,12.5
+Categorias,Estacional,Noroeste,12.8
+Categorias,Estacional,Cuyo,11.700000000000001
+Categorias,Estacional,Patagonia,12.4
+Categorias,Núcleo,GBA,67.0
+Categorias,Núcleo,Pampeana,68.7
+Categorias,Núcleo,Noreste,69.89999999999999
+Categorias,Núcleo,Noroeste,69.3
+Categorias,Núcleo,Cuyo,67.5
+Categorias,Núcleo,Patagonia,67.60000000000001
+Categorias,Regulados,GBA,22.8
+Categorias,Regulados,Pampeana,19.3
+Categorias,Regulados,Noreste,17.7
+Categorias,Regulados,Noroeste,17.9
+Categorias,Regulados,Cuyo,20.8
+Categorias,Regulados,Patagonia,20.0
+Bienes y servicios,Bienes,GBA,59.3
+Bienes y servicios,Bienes,Pampeana,70.1
+Bienes y servicios,Bienes,Noreste,77.4
+Bienes y servicios,Bienes,Noroeste,75.2
+Bienes y servicios,Bienes,Cuyo,71.2
+Bienes y servicios,Bienes,Patagonia,71.3
+Bienes y servicios,Servicios,GBA,40.699999999999996
+Bienes y servicios,Servicios,Pampeana,29.9
+Bienes y servicios,Servicios,Noreste,22.6
+Bienes y servicios,Servicios,Noroeste,24.8
+Bienes y servicios,Servicios,Cuyo,28.799999999999997
+Bienes y servicios,Servicios,Patagonia,28.7
