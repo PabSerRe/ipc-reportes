@@ -48,19 +48,9 @@ df = cargar_datos()
 
 st.sidebar.header("Filtros")
 
-# Mostrar solo orígenes que tengan al menos una columna numérica con datos
-origenes_con_datos = []
-for o in sorted(df["origen"].dropna().unique()):
-    subset = df[df["origen"] == o]
-    # Verifica si existe alguna columna numérica con datos válidos
-    if subset.select_dtypes(include=["number"]).notna().any().any():
-        origenes_con_datos.append(o)
+origen = st.sidebar.selectbox("Origen", sorted(df["origen"].dropna().unique()))
+base_origen = df[df["origen"] == origen].copy()
 
-# Fallback: si todos están vacíos, mostrar todos
-if not origenes_con_datos:
-    origenes_con_datos = sorted(df["origen"].dropna().unique())
-
-origen = st.sidebar.selectbox("Origen", origenes_con_datos)
 
 
 INDICADORES = {
@@ -271,6 +261,7 @@ elif grafico == "Acumulado entre fechas":
         )
 
         st.plotly_chart(fig, use_container_width=True, key="acumulado")
+
 
 
 
