@@ -10,7 +10,7 @@ def cargar_datos():
     df = pd.read_csv("ipc_maestro_sin_ponderaciones.csv")
     df["fecha"] = pd.to_datetime(df["fecha"].astype(str).str[:7], errors="coerce")
 
-    # --- Calcular Región Nacional ---
+     # --- Calcular Región Nacional ---
     pesos = {
         "Región GBA": 0.449,
         "Región Pampeana": 0.319,
@@ -203,29 +203,43 @@ if grafico == "Serie temporal":
     if datos.empty:
         st.warning("No hay datos para esta selección.")
     else:
-        fig = px.line(
-            datos,
-            x="fecha",
-            y=columna,
-            markers=True,
-            title=f"Evolución {columna} – {categoria} en {region} ({origen})"
-        )
-        if columna in ["variacion_mensual", "variacion_interanual"]:
+        # --- Mostrar variación interanual SIEMPRE como barras ---
+        if columna == "variacion_interanual":
+            fig = px.bar(
+                datos,
+                x="fecha",
+                y=columna,
+                text=datos[columna].apply(lambda v: f"{v:.2f}%"),
+                title=f"Variación interanual – {categoria} en {region} ({origen})"
+            )
             fig.update_traces(
-                text=[f"{v:.2f}%" for v in datos[columna]],
-                textposition="top center",
-                textfont=dict(size=13, color="black"),
-                mode="lines+markers+text"
+                textposition="outside",
+                textfont=dict(size=13, color="black")
             )
         else:
-            valor_inicio = datos[columna].iloc[0]
-            valor_final = datos[columna].iloc[-1]
-            variacion_pct = (valor_final / valor_inicio - 1) * 100
-            fig.add_annotation(
-                text=f"Variación total: {variacion_pct:.2f}%",
-                xref="paper", yref="paper", x=0.5, y=1.1, showarrow=False,
-                font=dict(size=14, color="black", family="Arial")
+            fig = px.line(
+                datos,
+                x="fecha",
+                y=columna,
+                markers=True,
+                title=f"Evolución {columna} – {categoria} en {region} ({origen})"
             )
+            if columna in ["variacion_mensual"]:
+                fig.update_traces(
+                    text=[f"{v:.2f}%" for v in datos[columna]],
+                    textposition="top center",
+                    textfont=dict(size=13, color="black"),
+                    mode="lines+markers+text"
+                )
+            else:
+                valor_inicio = datos[columna].iloc[0]
+                valor_final = datos[columna].iloc[-1]
+                variacion_pct = (valor_final / valor_inicio - 1) * 100
+                fig.add_annotation(
+                    text=f"Variación total: {variacion_pct:.2f}%",
+                    xref="paper", yref="paper", x=0.5, y=1.1, showarrow=False,
+                    font=dict(size=14, color="black", family="Arial")
+                )
 
         st.plotly_chart(fig, use_container_width=True, key=f"serie_temporal_{region}_{categoria}_{columna}")
 
